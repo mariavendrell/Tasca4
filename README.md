@@ -4,4 +4,4 @@
 ##
 - Intenta realitzar la tasca amb el correu de Office365. El correu pot ser el de iesesteveterradas.cat, ja que us aporta accés a Office 365.
 ##
-Desa els scripts al teu compte de github i penja la ruta o rutes URL per tal que pugui visualitzar el contingut i provar-ho. Afegeix també un txt descrivint què fa cada codi al repositori de github.
+- Desa els scripts al teu compte de github i penja la ruta o rutes URL per tal que pugui visualitzar el contingut i provar-ho. Afegeix també un txt descrivint què fa cada codi al repositori de github.
