@@ -1,5 +1,5 @@
 # Tasca4
-##CorreuBackup.ps1
+## CorreuBackup.ps1
 - Genera un script que permeti enviar un correu per gmail quan finalitzi la còpia d'uns fitxers. Pots reutilitzar el codi que vas utilitzar per fer les còpies de segureta per tal que al finalitzar enviï un correu de confirmació.
 
 1r - Habilitar la doble verificació de la nostra [compte de gmail](https://myaccount.google.com/signinoptions/two-step-verification).
@@ -35,7 +35,7 @@ Quan finlitzi l'script ens enviara el correu
 
 
 
-##Correu365.ps1
+## Correu365.ps1
 - Intenta realitzar la tasca amb el correu de Office365. El correu pot ser el de iesesteveterradas.cat, ja que us aporta accés a Office 365.
 
 Execució del script:
