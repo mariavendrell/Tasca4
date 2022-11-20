@@ -17,7 +17,7 @@ else
     {
         Copy-Item -Path $Backup -Destination $RutaBackup -Recurse -Force
         $mycredentials = Get-Credential
-        Send-MailMessage -SmtpServer smtp.office365.com -Port 587 -UseSsl -From mvendrellg@office365.com -To mvendrellgarcia.cf@iesesteveterradas.cat -Subject 'Backup feta' -Body 'Backup feta' -Credential $mycredentials
+        Send-MailMessage -SmtpServer smtp.office365.com -Port 587 -UseSsl -From mvendrellg@hotmail.com -To mvendrellgarcia.cf@iesesteveterradas.cat -Subject 'Backup feta' -Body 'Backup feta' -Credential $mycredentials
         Write-Output "Copia de seguretat realitzada"
     }
     else
