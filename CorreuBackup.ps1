@@ -16,8 +16,8 @@ else
     
     if ($existeix1 -And $existeix2 -eq $True)
     {
-        Copy-Item -Path $Backup -Destination $RutaBackup -Recurse -Force
         $mycredentials = Get-Credential
+        Copy-Item -Path $Backup -Destination $RutaBackup -Recurse -Force
         Send-MailMessage -SmtpServer smtp.gmail.com -Port 587 -UseSsl -From mariavendrell2003@gmail.com -To mvendrellgarcia.cf@iesesteveterradas.cat -Subject 'Backup feta' -Body 'Backup feta' -Credential $mycredentials
         Write-Output "Copia de seguretat realitzada"
     }
