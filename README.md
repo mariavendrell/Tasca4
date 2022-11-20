@@ -9,7 +9,7 @@
       
 ![Captura de pantalla_20221120_175712](https://user-images.githubusercontent.com/113999297/202916396-d2c0fa39-3004-4f39-8205-844c96028b65.png)
 
-      Hem generara la contrasenya.
+Hem generara la contrasenya.
       
 ![Captura de pantalla_20221120_175717](https://user-images.githubusercontent.com/113999297/202916434-9b02c231-26a6-49ab-a8b5-c7e5243404dc.png)
 
