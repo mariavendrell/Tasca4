@@ -20,7 +20,7 @@ Hem generara la contrasenya.
 ![Captura de pantalla_20221120_175817](https://user-images.githubusercontent.com/113999297/202916523-5bfcb39c-1503-4c02-a892-8994f432a5c4.png)
 
 Execució del script:
-Aquest script sense modifica funciona per a que la meva compte personal de Google enví un email a la meva compte del institu per avisar que la compia de seguritat ha finalitzat.
+Aquest script sense modifica funciona per a que la meva compte personal de Google enví un email a la meva compte del institut per avisar que la copia de seguritat ha finalitzat.
 
 Ens demanara las credencials de la meva compte de Google
 L'usuari es el compte de correu i la contrasenya la que abans m'ha generat.
@@ -37,4 +37,21 @@ Quan finlitzi l'script ens enviara el correu
 
 ##
 - Intenta realitzar la tasca amb el correu de Office365. El correu pot ser el de iesesteveterradas.cat, ja que us aporta accés a Office 365.
+
+Execució del script:
+Aquest script sense modifica funciona per a que la meva compte personal de Hotmail enví un email a la meva compte del institut per avisar que la copia de seguritat ha finalitzat.
+
+Ens demanara las credencials de la meva compte de Hotmail
+L'usuari es el compte de correu i la contrasenya la del correu.
+
+![Captura de pantalla_20221120_183505](https://user-images.githubusercontent.com/113999297/202917077-3ae01938-df24-4fc9-a8f3-fd95674d4f9a.png)
+
+Quan finlitzi l'script ens enviara el correu
+
+![Captura de pantalla_20221120_183559](https://user-images.githubusercontent.com/113999297/202917108-aa263cff-107a-448d-8a2a-6f9af2a4cfdc.png)
+
+
+
+
+
 
